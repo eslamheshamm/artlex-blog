@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;500;600;700;800;900&display=swap");
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+article a {
+    color: rgb(49, 49, 182);
+    text-decoration: underline;
+}
+/* purgecss end ignore */
+@tailwind utilities;
